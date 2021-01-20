@@ -11,4 +11,11 @@ The purpose of this project is to create a webpage using strictly HTML and the c
 * Forms
 * Tables
 
-
+The webpage will visually display the below from top to bottom: 
+* Navigation at the top
+* Picture banner
+* An "About Us" section
+* A "History" section
+* A "Services" section
+* A "Contact Us" form
+* A footer 
